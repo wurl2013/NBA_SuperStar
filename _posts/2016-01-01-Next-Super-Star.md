@@ -10,9 +10,9 @@ image:
   creditlink: ""
 ---
 
-![alt tag](https://mengxinji.github.io/STA141B/images/pca_cluster_r.png)
+![alt tag](https://mengxinji.github.io/NBA_SuperStar/images/pca_cluster_r.png)
 
-![alt tag](https://mengxinji.github.io/STA141B/images/barplots.jpeg)
+![alt tag](https://mengxinji.github.io/NBA_SuperStar/images/barplots.jpeg)
 
 
 # **The Next Super Star in NBA?!**
@@ -21,7 +21,7 @@ image:
 
 Given the large basis of NBA audiences and increasing pursue for super stars, using past year data to analyze who is the next super star seems to be an interesting and meaningful question.
 
-.right[![Right-aligned image](https://mengxinji.github.io/STA141B/images/pieCL.png)]
+.right[![Right-aligned image](https://mengxinji.github.io/NBA_SuperStar/images/pieCL.png)]
 
 
 ## _Questions_
