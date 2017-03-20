@@ -2,10 +2,10 @@
 title:               NBA Super Stars
 tagline:             a miniproject for STA 141B
 description:
-baseurl:            #"/NBA_SuperStar"
-url:                #"https://mengxinji.github.io"
+baseurl:            "/NBA_SuperStar"
+url:               "https://mengxinji.github.io"
 github:
-  url:               #"https://mengxinji.github.io/NBA_SuperStar/"
+  url:               "https://mengxinji.github.io/NBA_SuperStar/"
 author:
   name:              "Mengxin"
   email:             "mji@ucdavis.edu"
