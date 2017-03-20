@@ -37,7 +37,10 @@ align="left" height=“99” width=“99”>
 
 <img src="https://mengxinji.github.io/NBA_SuperStar/images/stackCl.png" align="right" height=“100” width=“100” >
 
+<img src="https://mengxinji.github.io/..." data-canonical-src="https://mengxinji.github.io/NBA_SuperStar/images/stackCl.png" align="right" width=“100" height=“100" />
+
 ## PCA Visualization
+
 
 
 ![alt tag](https://mengxinji.github.io/NBA_SuperStar/images/cluster_plot_r.png)
