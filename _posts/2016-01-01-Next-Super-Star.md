@@ -39,6 +39,8 @@ Cluster 4 is the largest proportion and cluster 1 is the smallest. The players i
 ## PCA Visualization
 
 
+<a href="url"><img src="https://mengxinji.github.io/NBA_SuperStar/images/cluster_plot_r.png" align="left" height="48" width="48" ></a>
+
 ![alt tag](https://mengxinji.github.io/NBA_SuperStar/images/cluster_plot_r.png)
 
 
