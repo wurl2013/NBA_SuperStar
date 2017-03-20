@@ -32,12 +32,13 @@ Using NBA statistic data, we would like to do some exploratory analysis and data
 
 Cluster 4 is the largest proportion and cluster 1 is the smallest. The players in cluster 2 are mostly rookie players and all the players in cluster 3 are stars. In cluster 1,4, and 3, there are a few players are rookie players. Such that rookie stars in cluster 1, 4, and 3 may be potential candidates for next stars.
 
-<img src="https://mengxinji.github.io/NBA_SuperStar/images/pieCL.png" 
-align="left" height=“99” width=“99”>
 
-<img src="https://mengxinji.github.io/NBA_SuperStar/images/stackCl.png" align="right" height=“100” width=“100” >
+![alt tag](https://mengxinji.github.io/NBA_SuperStar/images/pieCL.png align="right" width=“100" height=“100")
 
-<img src="https://mengxinji.github.io/..." data-canonical-src="https://mengxinji.github.io/NBA_SuperStar/images/stackCl.png" align="right" width=“100" height=“100" />
+
+![alt tag](https://mengxinji.github.io/NBA_SuperStar/images/stackCl.png)
+
+
 
 ## PCA Visualization
 
